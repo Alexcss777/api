@@ -1,0 +1,19 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "(index.js) index.html",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexcss777/api.git"
+  },
+  "author": "@alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexcss777/api/issues"
+  },
+  "homepage": "https://github.com/Alexcss777/api#readme"
+}
